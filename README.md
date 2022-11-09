@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ben Thrasher</h1>
 <h3 align="center">Software Engineer - Javascript - React - Node</h3>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **ben.r.thrasher@gmail.com**
 
